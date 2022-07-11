@@ -6,7 +6,7 @@
 
 ## ABOUT :books:
 
-This repository contains the source code for my personal portfolio website. There will be multiple revisions of the design and this is strictly personal, for me and me alone. If you'd like to use this for learning purposes fork and clone away. I am using ***Vue.js 3*** and ***Three.js*** to build this. :heart_on_fire:
+This repository contains the source code for my personal portfolio website. There will be multiple revisions of the design and this is strictly personal, for me and me alone. If you'd like to use this for learning purposes, fork and clone away. I am using ***Vue.js 3*** and ***Three.js*** to build this. :heart_on_fire:
 
 ## VIEW :rocket:
 
