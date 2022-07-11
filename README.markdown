@@ -20,13 +20,13 @@ Once you have confirmed this, execute these steps:
 - 1.) Fetch this site's source code from GitHub:
 
 ```bash
-git clone https://github.com/iamtheblackunicorn/portfolio
+git clone https://github.com/iamtheblackunicorn/angel
 ```
 
 - 2.) Change directory into the source's root directory:
 
 ```bash
-cd portfolio
+cd angel
 ```
 
 - 3.) Install the project's dependencies:
