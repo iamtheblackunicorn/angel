@@ -10,11 +10,7 @@ element that holds our actual
 3D model.
 -->
 <template>
-<!--
-Nothing goes here
-because we insert the element
-in the script section.
--->
+<br/>
 </template>
 
 <!--
