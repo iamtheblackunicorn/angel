@@ -1,0 +1,26 @@
+/*
+THE ANGELDUST DUKE'S PORTFOLIO by Alexander Abraham,
+a.k.a. "The Black Unicorn", a.k.a. "Angekdust Duke".
+Licensed under the MIT license.
+*/
+
+/* This SASS styles the responsive site. */
+
+@media screen and (max-width: 800px){
+    h1 {
+      padding: 10px;
+      font-size: 45px;
+    }
+    div.content {
+      width: 100vw;
+      display: block;
+      margin-left: 0px;
+      margin-top: 0px;
+      margin-right: 0px;
+      margin-bottom: 0px;
+      padding: 20px;
+    }
+    p.content {
+      font-size: 40px;
+    }
+}

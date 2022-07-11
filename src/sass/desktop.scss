@@ -1,0 +1,68 @@
+/*
+THE ANGELDUST DUKE'S PORTFOLIO by Alexander Abraham,
+a.k.a. "The Black Unicorn", a.k.a. "Angekdust Duke".
+Licensed under the MIT license.
+*/
+
+/* This SASS styles the desktop site. */
+
+html, body {
+  top: 0;
+  bottom: 0;
+  right: 0;
+  left: 0;
+  padding: 0px;
+  margin: 0px;
+  box-sizing: border-box;
+  background-color: $bgColor;
+  width: 100vw;
+  height: 100vh;
+  overflow: hidden;
+}
+h1 {
+  font-family: $stdFont;
+  width: 100vw;
+  text-align: left;
+  padding: 20px;
+  margin: 0px;
+  font-size: 60px;
+  color: $fontColor;
+  text-shadow: 2px 7px $shadowColor;
+  background-color: transparent;
+  border-top: none;
+  border-right: none;
+  border-left: none;
+  top: 0;
+  right: 0;
+  left: 0;
+  border-bottom: 4px solid $fontColor;
+}
+div.content {
+  width: 40vw;
+  background-color: transparent;
+  display: inline-block;
+  margin-left: 10vw;
+  margin-top: 8vw;
+  margin-right: 0px;
+  margin-bottom: 0px;
+  padding: 0px;
+}
+p.content {
+  font-size: 50px;
+  color: $fontColor;
+  text-shadow: 2px 7px $shadowColor;
+  font-family: $stdFont;
+  margin: 0px;
+  padding: 0px;
+}
+canvas {
+  margin: 0;
+  padding: 0;
+  width: 100vw;
+  height: 100vw;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  box-sizing: border-box;
+}
