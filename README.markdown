@@ -1,6 +1,6 @@
 # THE ANGELDUST DUKE'S PORTFOLIO :ribbon: :nail_care:
 
-![GitHub CI](https://github.com/iamtheblackunicorn/portfolio/actions/workflows/vue.yml/badge.svg)
+![GitHub CI](https://github.com/iamtheblackunicorn/angel/actions/workflows/vue.yml/badge.svg)
 
 ***My personal rad portfolio website. :ribbon: :nail_care:***
 
